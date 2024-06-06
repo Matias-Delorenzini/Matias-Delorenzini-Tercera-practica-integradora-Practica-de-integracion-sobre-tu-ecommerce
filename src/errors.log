@@ -1,0 +1,42 @@
+error: Error en /recover endpoint config is not defined {"stack":"ReferenceError: config is not defined\n    at file:///C:/Users/matia/OneDrive/Documentos/CODERHOUSE%20Backend/Integradoras/Clase%2037/src/routes/sessions.router.js:34:48\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+error: jwt malformed {"name":"JsonWebTokenError"}
+error: jwt malformed {"name":"JsonWebTokenError"}
+error: jwt malformed {"name":"JsonWebTokenError"}
+error: Error en /register endpoint result is not defined {"stack":"ReferenceError: result is not defined\n    at file:///C:/Users/matia/OneDrive/Documentos/CODERHOUSE%20Backend/Integradoras/Clase%2037/src/routes/users.router.js:18:20\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+error: Error en /register endpoint The "path" argument must be of type string. Received an instance of Object {"code":"ERR_INVALID_ARG_TYPE","stack":"TypeError [ERR_INVALID_ARG_TYPE]: The \"path\" argument must be of type string. Received an instance of Object\n    at extname (node:path:841:5)\n    at new View (C:\\Users\\matia\\OneDrive\\Documentos\\CODERHOUSE Backend\\Integradoras\\Clase 37\\node_modules\\express\\lib\\view.js:56:14)\n    at Function.render (C:\\Users\\matia\\OneDrive\\Documentos\\CODERHOUSE Backend\\Integradoras\\Clase 37\\node_modules\\express\\lib\\application.js:587:12)\n    at ServerResponse.render (C:\\Users\\matia\\OneDrive\\Documentos\\CODERHOUSE Backend\\Integradoras\\Clase 37\\node_modules\\express\\lib\\response.js:1048:7)\n    at file:///C:/Users/matia/OneDrive/Documentos/CODERHOUSE%20Backend/Integradoras/Clase%2037/src/routes/users.router.js:19:24\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+error: Error en /register endpoint The "path" argument must be of type string. Received an instance of Object {"code":"ERR_INVALID_ARG_TYPE","stack":"TypeError [ERR_INVALID_ARG_TYPE]: The \"path\" argument must be of type string. Received an instance of Object\n    at extname (node:path:841:5)\n    at new View (C:\\Users\\matia\\OneDrive\\Documentos\\CODERHOUSE Backend\\Integradoras\\Clase 37\\node_modules\\express\\lib\\view.js:56:14)\n    at Function.render (C:\\Users\\matia\\OneDrive\\Documentos\\CODERHOUSE Backend\\Integradoras\\Clase 37\\node_modules\\express\\lib\\application.js:587:12)\n    at ServerResponse.render (C:\\Users\\matia\\OneDrive\\Documentos\\CODERHOUSE Backend\\Integradoras\\Clase 37\\node_modules\\express\\lib\\response.js:1048:7)\n    at file:///C:/Users/matia/OneDrive/Documentos/CODERHOUSE%20Backend/Integradoras/Clase%2037/src/routes/users.router.js:21:24\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+error: undefined {"view":{"defaultEngine":"handlebars","ext":".handlebars","name":"Role changed","root":"./views"}}
+error: undefined {"view":{"defaultEngine":"handlebars","ext":".handlebars","name":"Role changed","root":"./views"}}
+error: undefined {"view":{"defaultEngine":"handlebars","ext":".handlebars","name":"Role changed","root":"./views"}}
+error: undefined {"view":{"defaultEngine":"handlebars","ext":".handlebars","name":"Role changed","root":"./views"}}
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined {"view":{"defaultEngine":"handlebars","ext":".handlebars","name":"create-product","root":"./views"}}
+error: Error en /register endpoint Cannot read properties of null (reading 'role') {"stack":"TypeError: Cannot read properties of null (reading 'role')\n    at file:///C:/Users/matia/OneDrive/Documentos/CODERHOUSE%20Backend/Integradoras/Clase%2037/src/routes/users.router.js:17:18\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: Error al actualizar el stock del producto:
+error: PRODUCT_DELETE_ERROR: Error interno del servidor al eliminar el producto.
+error: PRODUCT_NOT_FOUND: No se encontró el producto especificado.
+error: PRODUCT_NOT_FOUND: No se encontró el producto especificado.
+error: Error al actualizar el stock del producto:
+error: PRODUCT_DELETE_ERROR: Error interno del servidor al eliminar el producto.
+error: PRODUCT_NOT_FOUND: No se encontró el producto especificado.
+error: Error al obtener el producto por ID:
+error: PRODUCT_SEARCH_ERROR: Error interno del servidor al buscar el producto
+error: Error al actualizar el stock del producto:
+error: PRODUCT_DELETE_ERROR: Error interno del servidor al eliminar el producto.
+error: PRODUCT_ALREADY_IN_CART: El producto a añadir ya se encuentra en el carrito.
+error: PRODUCT_NOT_FOUND: No se encontró el producto especificado.
+error: PRODUCT_NOT_FOUND: No se encontró el producto especificado.
